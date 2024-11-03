@@ -6,6 +6,7 @@
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "EliteMasterEric-CleanerLogs-1.0.0",
+        "fumiko-CullFactory-1.4.3",
         "itsmeowdev-DoorFix-1.0.0"
     ]
 }
