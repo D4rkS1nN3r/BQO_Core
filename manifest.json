@@ -1,0 +1,11 @@
+{
+    "name": "BQO_Core",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/SDY8KZ6g3P",
+    "description": "`Vanilla experience with bug fixes, optimization, HUD redesign and other minor tweaks.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "EliteMasterEric-CleanerLogs-1.0.0",
+        "itsmeowdev-DoorFix-1.0.0"
+    ]
+}
