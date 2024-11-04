@@ -5,6 +5,7 @@
     "description": "`Vanilla experience with bug fixes, optimization, HUD redesign and other tweaks.",
     "dependencies": [
         "AdiBTW-Loadstone-0.1.14",
+        "AinaVT-LethalConfig-1.4.3",
         "akechii-DiscountAlert-2.3.0",
         "AllToasters-QuickRestart-1.2.0",
         "anormaltwig-LateCompany-1.0.18",
