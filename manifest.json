@@ -2,7 +2,7 @@
     "name": "BQO_Core",
     "version_number": "1.0.0",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
-    "description": "`Vanilla experience with bug fixes, optimization, HUD redesign and other tweaks.",
+    "description": "Vanilla experience with bug fixes, optimization, HUD redesign and other tweaks.",
     "dependencies": [
         "AdiBTW-Loadstone-0.1.14",
         "AinaVT-LethalConfig-1.4.3",
